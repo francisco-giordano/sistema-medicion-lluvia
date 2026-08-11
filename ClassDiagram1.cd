@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Proyeto_Medicios_de_LLuvia.GestionUsuarios">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAYAAAAAAAAEgAAAiAAAAAAAAAAAAAAAAABASQ=</HashCode>
+      <FileName>Gestores\GestionUsuarios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyeto_Medicios_de_LLuvia.GestorArchivos">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAgAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gestores\GestorArchivos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyeto_Medicios_de_LLuvia.Usuario">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAIAAgAAAAAA=</HashCode>
+      <FileName>Entidades\Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyeto_Medicios_de_LLuvia.Medicion">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAIAAAAIAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Medicion\Medicion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyeto_Medicios_de_LLuvia.MedicionLluvia">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAIAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Medicion\MedicionLluvia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyeto_Medicios_de_LLuvia.Administrador">
+    <Position X="3.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Administrador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyeto_Medicios_de_LLuvia.UsuarioFinal">
+    <Position X="1" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Entidades\UsuarioFinal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyeto_Medicios_de_LLuvia.GestionRoles">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Gestores\GestionRoles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyeto_Medicios_de_LLuvia.Familia">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAQAAAgABAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>FamiliayPermisos\Familia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyeto_Medicios_de_LLuvia.Permisos">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>FamiliayPermisos\Permisos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyeto_Medicios_de_LLuvia.SistLLuvia" Collapsed="true">
+    <Position X="7" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Medicion\SistLLuvia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyeto_Medicios_de_LLuvia.Familia_Permiso" Collapsed="true">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>FamiliayPermisos\Familia_Permiso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
